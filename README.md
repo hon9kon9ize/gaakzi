@@ -47,7 +47,9 @@ updated: "YYYY-MM-DD"
 
 ## 如何參與貢獻與回報問題
 
-歡迎大家透過 **GitHub Issues** 或 **Pull Requests** 一同完善本地文化與事實紀錄：
+歡迎大家透過 **GitHub Issues**、**Pull Requests** 或加入 [**Discord 社群**](https://discord.gg/5hU2cNd32k) 一同完善本地文化與事實紀錄（問題排解、意見回饋、資料錯誤回報）：
+
+- **Discord**：https://discord.gg/5hU2cNd32k（疑難排解、意見回饋、即時交流與問題回報）
 
 ### 1. 提交 Issue（勘誤／補完／新增請求）
 如發現以下情況，歡迎開立 Issue 並附上來源連結：
