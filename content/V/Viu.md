@@ -3,6 +3,8 @@ title: Viu
 id: c6f3bc81-06a3-4632-8b4d-33028e051da4
 type: organisation
 aliases: []
+relations:
+  - {rel: 母公司, target: 香港電訊盈科媒體有限公司}
 sources:
   - {url: "https://zh-yue.wikipedia.org/wiki/Viu", from: "維基百科(yue)"}
   - {url: "https://zh.wikipedia.org/wiki/Viu", from: "維基百科(zh)"}

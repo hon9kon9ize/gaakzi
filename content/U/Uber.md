@@ -7,6 +7,7 @@ relations:
   - {rel: 創辦人, target: 查維斯·卡拿力}
   - {rel: 創辦人, target: 特拉維斯·卡蘭尼克}
   - {rel: 前行政總裁, target: 萊恩·格雷夫斯}
+  - {rel: 行政總裁, target: 達拉·科斯羅沙希}
 sources:
   - {url: "https://zh-yue.wikipedia.org/wiki/%E5%84%AA%E6%AD%A5", from: "維基百科(yue)"}
   - {url: "https://zh.wikipedia.org/wiki/%E5%84%AA%E6%AD%A5", from: "維基百科(zh)"}
