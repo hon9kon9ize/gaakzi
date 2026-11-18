@@ -3,6 +3,8 @@ title: M+
 id: 41e3a033-fe52-46d5-8c71-129a4af03dd9
 type: place
 aliases: []
+relations:
+  - {rel: 位於, target: 西九文化區}
 sources:
   - {url: "https://zh.wikipedia.org/wiki/M%2B", from: "維基百科(zh)"}
 covered_until: 2026-11-16
